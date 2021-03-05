@@ -1,2 +1,2 @@
 # ohmyzsh_template
-My custom, pure template for ohmyzsh.
+`cp aureo.zsh-theme ~/.oh-my-zsh/themes && source ~/.zshrc`
